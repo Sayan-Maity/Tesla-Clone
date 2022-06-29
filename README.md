@@ -1,18 +1,18 @@
-https://sayancr777-tesla-landingpage.netlify.app/
+Visit the site to see the website LIVE = " https://sayancr777-tesla-landingpage.netlify.app/ "
 
 <div align="center">
-  <img alt="Logo" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/e9afedb50d8b318b3299" width="250" />
+  <img alt="Logo" src="https://allcarbrandslist.com/wp-content/uploads/2020/12/Tesla-Logo-1-2048x1536.png" width="250" />
 </div>
 
 <h1 align="center">
-  cypherock.com/frontend-assignment
+  tesla.com/Landing-Page
 </h1>
 <p align="center">
-  This dashboard is made using ReactJS, HTML and CSS
+  This dashboard is made using ReactJS, Redux, HTML and CSS
 </p>
 <p align="center">
   <img src="https://media0.giphy.com/media/Yx17W03kc8QSsbLBcb/giphy.gif?cid=ecf05e47w5pl0zoowssommrnea77o2x0utbsogisnmu2bfrr&rid=giphy.gif&ct=s" width="45">&nbsp;
-  Go through all the images below to have a clear idea about the Frontend or UI of the Dashboard
+  Go through all the images below to have a clear idea about the Landing Page of the Tela Website
 &nbsp;<img src="https://media0.giphy.com/media/Yx17W03kc8QSsbLBcb/giphy.gif?cid=ecf05e47w5pl0zoowssommrnea77o2x0utbsogisnmu2bfrr&rid=giphy.gif&ct=s" width="45">
 </p>
 
