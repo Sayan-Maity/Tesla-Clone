@@ -20,17 +20,19 @@ https://sayancr777-tesla-landingpage.netlify.app/
 
 ![image1](https://raw.githubusercontent.com/Sayan-Maity/Tesla-Clone/main/src/readmeImages/image1.jpg) 
 
-![image7](https://raw.githubusercontent.com/Sayan-Maity/Cypherock-Tutorial/main/src/assets/readmeImages/image7.jpg) 
+![image8](https://raw.githubusercontent.com/Sayan-Maity/Tesla-Clone/main/src/readmeImages/image8.jpg) 
 
-![image2](https://raw.githubusercontent.com/Sayan-Maity/Cypherock-Tutorial/main/src/assets/readmeImages/image2.jpg) 
+![image2](https://raw.githubusercontent.com/Sayan-Maity/Tesla-Clone/main/src/readmeImages/image2.jpg) 
 
-![image3](https://raw.githubusercontent.com/Sayan-Maity/Cypherock-Tutorial/main/src/assets/readmeImages/image3.jpg) 
+![image3](https://raw.githubusercontent.com/Sayan-Maity/Tesla-Clone/main/src/readmeImages/image3.jpg) 
 
-![image4](https://raw.githubusercontent.com/Sayan-Maity/Cypherock-Tutorial/main/src/assets/readmeImages/image4.jpg) 
+![image4](https://raw.githubusercontent.com/Sayan-Maity/Tesla-Clone/main/src/readmeImages/image4.jpg) 
 
-![image5](https://raw.githubusercontent.com/Sayan-Maity/Cypherock-Tutorial/main/src/assets/readmeImages/image5.jpg) 
+![image5](https://raw.githubusercontent.com/Sayan-Maity/Tesla-Clone/main/src/readmeImages/image5.jpg) 
 
-![image6](https://raw.githubusercontent.com/Sayan-Maity/Cypherock-Tutorial/main/src/assets/readmeImages/image6.jpg) 
+![image6](https://raw.githubusercontent.com/Sayan-Maity/Tesla-Clone/main/src/readmeImages/image6.jpg) 
+
+![image7](https://raw.githubusercontent.com/Sayan-Maity/Tesla-Clone/main/src/readmeImages/image7.jpg) 
 
 
 
