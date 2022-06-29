@@ -8,7 +8,7 @@ Visit the site to see the website LIVE = " https://sayancr777-tesla-landingpage.
   tesla.com/Landing-Page
 </h1>
 <p align="center">
-  This dashboard is made using ReactJS, Redux, HTML and CSS
+  This project is made using ReactJS, Redux, HTML and CSS
 </p>
 <p align="center">
   <img src="https://media0.giphy.com/media/Yx17W03kc8QSsbLBcb/giphy.gif?cid=ecf05e47w5pl0zoowssommrnea77o2x0utbsogisnmu2bfrr&rid=giphy.gif&ct=s" width="45">&nbsp;
