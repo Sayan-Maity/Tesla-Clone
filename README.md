@@ -1,49 +1,75 @@
 https://sayancr777-tesla-landingpage.netlify.app/
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+<div align="center">
+  <img alt="Logo" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/e9afedb50d8b318b3299" width="250" />
+</div>
 
-## Available Scripts
+<h1 align="center">
+  cypherock.com/frontend-assignment
+</h1>
+<p align="center">
+  This dashboard is made using ReactJS, HTML and CSS
+</p>
+<p align="center">
+  <img src="https://media0.giphy.com/media/Yx17W03kc8QSsbLBcb/giphy.gif?cid=ecf05e47w5pl0zoowssommrnea77o2x0utbsogisnmu2bfrr&rid=giphy.gif&ct=s" width="45">&nbsp;
+  Go through all the images below to have a clear idea about the Frontend or UI of the Dashboard
+&nbsp;<img src="https://media0.giphy.com/media/Yx17W03kc8QSsbLBcb/giphy.gif?cid=ecf05e47w5pl0zoowssommrnea77o2x0utbsogisnmu2bfrr&rid=giphy.gif&ct=s" width="45">
+</p>
 
-In the project directory, you can run:
 
-### `npm start`
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+![image1](https://raw.githubusercontent.com/Sayan-Maity/Tesla-Clone/main/src/readmeImages/image1.jpg) 
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+![image7](https://raw.githubusercontent.com/Sayan-Maity/Cypherock-Tutorial/main/src/assets/readmeImages/image7.jpg) 
 
-### `npm test`
+![image2](https://raw.githubusercontent.com/Sayan-Maity/Cypherock-Tutorial/main/src/assets/readmeImages/image2.jpg) 
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![image3](https://raw.githubusercontent.com/Sayan-Maity/Cypherock-Tutorial/main/src/assets/readmeImages/image3.jpg) 
 
-### `npm run build`
+![image4](https://raw.githubusercontent.com/Sayan-Maity/Cypherock-Tutorial/main/src/assets/readmeImages/image4.jpg) 
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![image5](https://raw.githubusercontent.com/Sayan-Maity/Cypherock-Tutorial/main/src/assets/readmeImages/image5.jpg) 
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+![image6](https://raw.githubusercontent.com/Sayan-Maity/Cypherock-Tutorial/main/src/assets/readmeImages/image6.jpg) 
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 🛠 Installation & Set Up
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+1. Install all the Node Modules and dependencies
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+   ```sh
+   npm install 
+   ```
+   Dependencies used here are -->
+   ```sh
+   { 
+        "nodemon": "^2.0.18",
+        "react": "^17.0.2",
+        "react-dom": "^17.0.2",
+        "react-redux": "^7.2.6",
+        "react-reveal": "^1.2.2",
+        "react-scripts": "5.0.0"
+    }
+   ```
 
-## Learn More
+4. Start the development server
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+   ```sh
+   npm start
+   ```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-#� �T�e�s�l�a�-�C�l�o�n�e�
-�
-�
+## 🚀 Building and Running for Production
+
+1. Generate a full static production build
+
+   ```sh
+   npm run build
+   ```
+
+1. Preview the site as it will appear once deployed
+
+   ```sh
+   npm run serve
+   ```
